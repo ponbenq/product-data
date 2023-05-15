@@ -2,7 +2,7 @@
   {
     "id": 1,
     "itemName": "Item 1",
-    "itemPic": "item1.jpg",
+    "itemPic": "https://i.dummyjson.com/data/products/1/1.jpg",
     "itemQuantity": "2 units"
   },
   {
